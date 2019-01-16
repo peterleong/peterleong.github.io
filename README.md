@@ -1,2 +1,2 @@
 # peterleong.github.io
-peterleong Github Pages Home
+Dr Peter Leong Github Pages
