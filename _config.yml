@@ -2,7 +2,7 @@ title: Peter Leong Github Pages
 description: Transforming Ideas to Innovations
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
