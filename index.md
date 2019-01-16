@@ -1,2 +1,2 @@
-Hi I'm Peter Leong. I work as a senior lecturer at the Singapore Polytechnic. I teach all sorts of Computer Science subjects: Computer Architecture | Operating System | Algorithms | Data Structures | Android Programming | Java | R | C# | Predictive Analytics | Malware Analysis.
+Dr. Peter Leong teaches all sorts of Computer Science subjects: | Artificial Intelligence | Deep Learning | Machine Learning | Predictive Analytics | Algorithms | Data Structures | Python | R | JavaScript | Java | C# | Malware Analysis | Computer Architecture | Operating System | Security Policy and Incident Response |
 
