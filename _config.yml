@@ -2,7 +2,7 @@ title: Peter Leong Github Pages
 description: the elimination of the insignificant
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
